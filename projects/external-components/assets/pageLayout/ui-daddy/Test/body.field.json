@@ -1,0 +1,75 @@
+{
+    "db-4": [],
+    "db-0": [
+        {
+            "baseProperties": {
+                "type": "email",
+                "id": "db-1",
+                "name": "email"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null,
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "password",
+                "id": "db-2",
+                "name": "password"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null,
+            "accessor": null
+        }
+    ],
+    "db-5": [],
+    "db-8": [
+        {
+            "baseProperties": {
+                "type": "button",
+                "id": "db-3",
+                "name": "submit "
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {}
+        }
+    ],
+    "db-7": []
+}
